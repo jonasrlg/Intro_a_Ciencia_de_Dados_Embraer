@@ -10,3 +10,5 @@ Para executar os notebooks de maneira correta:
 1. Primeiro, extraia o arquivo referente aos microdados do ENEM-2022 dentro do repositório;
 2. Segundo, execute o notebook de Análise Exploratória, `analise.ipynb`; e
 3. Terceiro, execute o notebook de Regressão, `predicao.ipynb`.
+
+Por fim, temos um [link](https://drive.google.com/file/d/1-BlcglfQB-VsYZFPM331FPo4etkYP4Z4/view?usp=sharing) do vídeo explicativo do trabalho (somente acessível para membros do CIn-UFPE).
